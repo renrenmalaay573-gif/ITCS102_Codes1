@@ -1,0 +1,10 @@
+ # + - Addition
+ # - - Subraction
+ # * - Multiplication
+ # / - Division
+ # // - Floor Division
+ # ** - Exponentation
+ # % - Modulus
+
+Money 3,433 
+print ("1000)

@@ -1,0 +1,17 @@
+# \n -new line
+# \t -tab space
+# \r -carriage return
+# \\ -insert slash 
+# \" - insert quotation
+# 'b - back space
+
+
+print ("\t\t\t*\n"
+           "\t\t  ***\n"
+           "\t\t *****\n"
+           "\t\t*******\n"
+           "\t   * MALAAY *\n"
+           "\t\t*******\n"
+           "\t\t *****\n"
+           "\t\t  ***\n"
+           "\t\t\t*\n")

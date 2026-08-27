@@ -1,0 +1,16 @@
+#Operators 
+#Arithmetic Operator
+# + - Addition
+# - - Subraction 
+# * - Multiplication 
+# / - Division
+# // - Floor Division
+# ** - Exponentation
+# % - Modulus
+
+a = 27
+b = 13
+
+product = a+b
+
+print("The product of ",a," and",b," is ",product)
